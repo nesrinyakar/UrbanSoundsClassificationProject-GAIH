@@ -6,6 +6,7 @@ sınıflandırılmasıyla ilgili bir proje yaptık. Bu projede hedefimiz, derin 
 algoritmalarını kullanarak yapay zeka modeli hazırlamaktır.
 
 OUTLIERS Grup Üyeleri
+
 Nesrin YAKAR
 Zehra KAYA
 Berke ÜÇYILDIZ
